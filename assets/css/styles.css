@@ -558,7 +558,7 @@ a:hover {
 /* Hotel */
 .Hotel {
   padding: 43px 0 40px;
-  background-image: url(../images/hotel-bg.png);
+  background-image: url(../images/hotel-bg.webp);
   background-position: center;
   background-size: contain;
 }
